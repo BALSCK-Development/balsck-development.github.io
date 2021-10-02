@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ponuka on Tímový Projeckt</title>
-    <link>http://example.org/ponuka/</link>
+    <link>https://balsck-development.github.io/ponuka/</link>
     <description>Recent content in Ponuka on Tímový Projeckt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/ponuka/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://balsck-development.github.io/ponuka/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

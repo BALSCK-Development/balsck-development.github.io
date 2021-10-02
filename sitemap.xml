@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://balsck-development.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/ponuka/</loc>
+    <loc>https://balsck-development.github.io/ponuka/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://balsck-development.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://balsck-development.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/zadanie/</loc>
+    <loc>https://balsck-development.github.io/zadanie/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/zapisnice/</loc>
+    <loc>https://balsck-development.github.io/zapisnice/</loc>
   </url>
   
 </urlset>
